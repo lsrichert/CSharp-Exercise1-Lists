@@ -1,0 +1,11 @@
+/Users/lauren/workspace/csharp/exercise1List/bin/Debug/netcoreapp2.1/exercise1List.deps.json
+/Users/lauren/workspace/csharp/exercise1List/bin/Debug/netcoreapp2.1/exercise1List.runtimeconfig.json
+/Users/lauren/workspace/csharp/exercise1List/bin/Debug/netcoreapp2.1/exercise1List.runtimeconfig.dev.json
+/Users/lauren/workspace/csharp/exercise1List/bin/Debug/netcoreapp2.1/exercise1List.dll
+/Users/lauren/workspace/csharp/exercise1List/bin/Debug/netcoreapp2.1/exercise1List.pdb
+/Users/lauren/workspace/csharp/exercise1List/obj/Debug/netcoreapp2.1/exercise1List.csprojAssemblyReference.cache
+/Users/lauren/workspace/csharp/exercise1List/obj/Debug/netcoreapp2.1/exercise1List.csproj.CoreCompileInputs.cache
+/Users/lauren/workspace/csharp/exercise1List/obj/Debug/netcoreapp2.1/exercise1List.AssemblyInfoInputs.cache
+/Users/lauren/workspace/csharp/exercise1List/obj/Debug/netcoreapp2.1/exercise1List.AssemblyInfo.cs
+/Users/lauren/workspace/csharp/exercise1List/obj/Debug/netcoreapp2.1/exercise1List.dll
+/Users/lauren/workspace/csharp/exercise1List/obj/Debug/netcoreapp2.1/exercise1List.pdb
